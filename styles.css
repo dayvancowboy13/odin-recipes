@@ -8,7 +8,7 @@
 }
 
 .list-container {
-    text-align: center;
+    padding:auto;
 
 }
 
@@ -24,4 +24,14 @@
 li {
     background-color: hsl(33, 100%, 78%);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ol, ul {
+    background-color: hsl(33, 100%, 78%);
+    display: table;
+    margin: 0 auto;
+}
+
+.directions, .ingredients, .description {
+    text-align:center;
 }
