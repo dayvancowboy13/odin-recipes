@@ -35,3 +35,7 @@ ol, ul {
 .directions, .ingredients, .description {
     text-align:center;
 }
+
+.img-container {
+    text-align: center;
+}
